@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/WorTopia/static/css/main.23081b92.css",
+    "main.css": "/WorTopia/static/css/main.bcfec29a.css",
     "main.js": "/WorTopia/static/js/main.8f4d6ff2.js",
     "static/js/496.e99ae76d.chunk.js": "/WorTopia/static/js/496.e99ae76d.chunk.js",
-    "static/media/bgdark.png": "/WorTopia/static/media/bgdark.54e6f0afa08d3800aadd.png",
+    "static/media/growtopia-heroBanner.webp": "/WorTopia/static/media/growtopia-heroBanner.6489ee778b27e9fbe86a.webp",
     "index.html": "/WorTopia/index.html",
-    "main.23081b92.css.map": "/WorTopia/static/css/main.23081b92.css.map",
+    "main.bcfec29a.css.map": "/WorTopia/static/css/main.bcfec29a.css.map",
     "main.8f4d6ff2.js.map": "/WorTopia/static/js/main.8f4d6ff2.js.map",
     "496.e99ae76d.chunk.js.map": "/WorTopia/static/js/496.e99ae76d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23081b92.css",
+    "static/css/main.bcfec29a.css",
     "static/js/main.8f4d6ff2.js"
   ]
 }
