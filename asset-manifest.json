@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/WorTopia/static/css/main.752464fb.css",
+    "main.css": "/WorTopia/static/css/main.acaf6016.css",
     "main.js": "/WorTopia/static/js/main.8f4d6ff2.js",
     "static/js/496.e99ae76d.chunk.js": "/WorTopia/static/js/496.e99ae76d.chunk.js",
     "static/media/bg-3.png": "/WorTopia/static/media/bg-3.81e43fd1d79539f701ec.png",
     "static/media/bgdark-3.png": "/WorTopia/static/media/bgdark-3.ffe3350e757ee51bdcf1.png",
     "index.html": "/WorTopia/index.html",
-    "main.752464fb.css.map": "/WorTopia/static/css/main.752464fb.css.map",
+    "main.acaf6016.css.map": "/WorTopia/static/css/main.acaf6016.css.map",
     "main.8f4d6ff2.js.map": "/WorTopia/static/js/main.8f4d6ff2.js.map",
     "496.e99ae76d.chunk.js.map": "/WorTopia/static/js/496.e99ae76d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.752464fb.css",
+    "static/css/main.acaf6016.css",
     "static/js/main.8f4d6ff2.js"
   ]
 }
